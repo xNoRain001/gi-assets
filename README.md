@@ -1,0 +1,1 @@
+所有资源均来自 [`HoyoToon-Assets`](https://github.com/Hoyotoon/HoyoToon-Assets)，我会对极少部分文件进行修改以适配[`GI-Shaders`](https://github.com/xNoRain001/gi-shaders)。

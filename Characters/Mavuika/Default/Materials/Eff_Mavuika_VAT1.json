@@ -1,0 +1,156 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": -2356080335411257985,
+    "Name": "miHoYo/Effects/Eff_Mavuika_VAT_Ramp",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_HighlightMaskTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -2489701521968663053,
+          "Name": "Eff_Symbol_Mavuika_Noise_02_01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 3.78,
+          "Y": 3.0
+        },
+        "m_Offset": {
+          "X": -1.49,
+          "Y": -0.55
+        }
+      },
+      "_HighlightMaskTex2": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": 6114556763452707636,
+          "Name": "Eff_Symbol_Mavuika_Noise_02_02",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 0.7
+        },
+        "m_Offset": {
+          "X": 0.45,
+          "Y": 0.1
+        }
+      },
+      "_PosTex_A": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 5504642054398215855,
+          "Name": "Eff_Symbol_Mavuika_VAT_00",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_VerticalRampTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 4641109760618179499,
+          "Name": "Eff_Symbol_Mavuika_Ramp_05_NoStream",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_VerticalRampTex2": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": -1605998544621681416,
+          "Name": "Eff_Symbol_Mavuika_Ramp_06_NoStream",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BoundMaxX": 0.048216,
+      "_BoundMaxY": 0.062862,
+      "_BoundMaxZ": 0.042318,
+      "_BoundMinX": -0.04818,
+      "_BoundMinY": -0.035064,
+      "_BoundMinZ": -0.04857,
+      "_CurrentFrame": 45.0,
+      "_DisappearByVerColAlpha": 0.0,
+      "_DitherAlpha": 1.0,
+      "_Dx11ShaderPsScore": 0.0,
+      "_Dx11ShaderScore": 0.0,
+      "_Dx11ShaderVsScore": 0.0,
+      "_ElementViewEleID": 0.0,
+      "_FrameCount": 60.0,
+      "_HighlightMaskTex2ChannelSwitch": 0.0,
+      "_HighlightMaskTex2VOffsetByVerColA": 1.0,
+      "_HighlightMaskTexChannelSwitch": 0.0,
+      "_HoudiniFPS": 60.0,
+      "_IfAutoPlayback": 1.0,
+      "_IfInterframeInterp": 1.0,
+      "_Speed": 0.5,
+      "_TimeShift": 1.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VerticalFadeOffset": 0.6,
+      "_VerticalFadeRange": 0.25,
+      "_VerticalFadeToggle": 0.0,
+      "_VerticalRampLerp": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.15,
+        "g": 1.15,
+        "b": 1.15,
+        "a": 1.0
+      },
+      "_DayColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_HighlightColor": {
+        "r": 1.15,
+        "g": 1.15,
+        "b": 1.15,
+        "a": 0.0
+      },
+      "_HighlightColor2": {
+        "r": 0.95,
+        "g": 0.6937116,
+        "b": 0.3324997,
+        "a": 1.0
+      },
+      "_VerticalRampTint": {
+        "r": 1.1,
+        "g": 1.1,
+        "b": 1.1,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Eff_Mavuika_VAT1",
+  "Name": "Eff_Mavuika_VAT1"
+}
