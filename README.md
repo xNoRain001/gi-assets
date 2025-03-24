@@ -61,7 +61,7 @@ avatar_name_map = {
   'Kuki Shinobu': '久岐忍',
   'La Signora': '女士',
   'Layla': '莱依拉',
-  'Linette': '琳妮特',
+  'Lynette': '琳妮特',
   'Lisa': '丽莎',
   'Lumine': '荧',
   'Lyney': '林尼',
@@ -208,3 +208,5 @@ weapon_name_map = {
   'Skyward Harp': '天空之翼'
 }
 ```
+
+[`DownGit`](https://downgit.evecalm.com/#/home) 下载
